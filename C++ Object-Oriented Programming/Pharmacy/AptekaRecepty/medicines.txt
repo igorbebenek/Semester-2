@@ -1,0 +1,6 @@
+Paracetamol,10.5,2023-12-31,Przechowuj w zimnym, suchym miejscu
+Ibuprofen,8.75,2023-11-30,Trzymaj z daleka od slonca
+Aspirin,5.25,2024-06-30,Przechowuj w szczelnym pojemniku
+Xanax,6.08,2025-07-31,Trzymaj z daleka od slonca
+Olanzapine,40.02,2024-03-23,Trzymaj z daleka od dzieci
+Izotek,30.02,2024-05-24,Trzymaj z daleka od slonca

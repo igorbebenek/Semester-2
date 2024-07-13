@@ -1,0 +1,4 @@
+﻿  AptekaRecepty.cpp
+C:\Users\igorb\source\repos\AptekaRecepty\AptekaRecepty\AptekaRecepty.cpp(43,74): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\igorb\source\repos\AptekaRecepty\AptekaRecepty\AptekaRecepty.cpp(63,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  AptekaRecepty.vcxproj -> C:\Users\igorb\source\repos\AptekaRecepty\x64\Debug\AptekaRecepty.exe

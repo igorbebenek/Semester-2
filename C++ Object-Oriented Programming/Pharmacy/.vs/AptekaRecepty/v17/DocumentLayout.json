@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AptekaRecepty\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AptekaRecepty\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\medicines.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AptekaRecepty\\medicines.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\AptekaRecepty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AptekaRecepty\\AptekaRecepty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Medicine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AptekaRecepty\\Medicine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Receipt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AptekaRecepty\\Receipt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Medicine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AptekaRecepty\\Medicine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Pharmacy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AptekaRecepty\\Pharmacy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Pharmacy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AptekaRecepty\\Pharmacy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Receipt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AptekaRecepty\\Receipt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igorb\\source\\repos\\AptekaRecepty\\AptekaRecepty\\MedicineBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:445537940:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "medicines.txt",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\medicines.txt",
+              "RelativeDocumentMoniker": "AptekaRecepty\\medicines.txt",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\medicines.txt",
+              "RelativeToolTip": "AptekaRecepty\\medicines.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-13T23:22:45.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cpp",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Product.cpp",
+              "RelativeDocumentMoniker": "AptekaRecepty\\Product.cpp",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Product.cpp",
+              "RelativeToolTip": "AptekaRecepty\\Product.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T23:22:45.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AptekaRecepty.cpp",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\AptekaRecepty.cpp",
+              "RelativeDocumentMoniker": "AptekaRecepty\\AptekaRecepty.cpp",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\AptekaRecepty.cpp",
+              "RelativeToolTip": "AptekaRecepty\\AptekaRecepty.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T23:22:45.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.h",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Product.h",
+              "RelativeDocumentMoniker": "AptekaRecepty\\Product.h",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Product.h",
+              "RelativeToolTip": "AptekaRecepty\\Product.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T23:22:45.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medicine.cpp",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Medicine.cpp",
+              "RelativeDocumentMoniker": "AptekaRecepty\\Medicine.cpp",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Medicine.cpp",
+              "RelativeToolTip": "AptekaRecepty\\Medicine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T23:22:45.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Receipt.cpp",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Receipt.cpp",
+              "RelativeDocumentMoniker": "AptekaRecepty\\Receipt.cpp",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Receipt.cpp",
+              "RelativeToolTip": "AptekaRecepty\\Receipt.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T23:22:45.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pharmacy.cpp",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Pharmacy.cpp",
+              "RelativeDocumentMoniker": "AptekaRecepty\\Pharmacy.cpp",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Pharmacy.cpp",
+              "RelativeToolTip": "AptekaRecepty\\Pharmacy.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T23:22:45.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pharmacy.h",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Pharmacy.h",
+              "RelativeDocumentMoniker": "AptekaRecepty\\Pharmacy.h",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Pharmacy.h",
+              "RelativeToolTip": "AptekaRecepty\\Pharmacy.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T23:22:45.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Medicine.h",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Medicine.h",
+              "RelativeDocumentMoniker": "AptekaRecepty\\Medicine.h",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Medicine.h",
+              "RelativeToolTip": "AptekaRecepty\\Medicine.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T23:22:45.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Receipt.h",
+              "DocumentMoniker": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Receipt.h",
+              "RelativeDocumentMoniker": "AptekaRecepty\\Receipt.h",
+              "ToolTip": "C:\\Users\\igorb\\Desktop\\reposyvisualstudio-20240708T105708Z-001\\reposyvisualstudio\\AptekaRecepty\\AptekaRecepty\\Receipt.h",
+              "RelativeToolTip": "AptekaRecepty\\Receipt.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T23:22:45.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.CppCommon.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ViewState": "AQIAADcEAAAAAAAAAAAqwEcEAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2023-06-14T19:23:43.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedicineBase.h",
+              "DocumentMoniker": "C:\\Users\\igorb\\source\\repos\\AptekaRecepty\\AptekaRecepty\\MedicineBase.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\AptekaRecepty\\AptekaRecepty\\MedicineBase.h",
+              "ToolTip": "C:\\Users\\igorb\\source\\repos\\AptekaRecepty\\AptekaRecepty\\MedicineBase.h",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\AptekaRecepty\\AptekaRecepty\\MedicineBase.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-06-14T19:23:43.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
